@@ -1,17 +1,14 @@
 # Build-a-Portfolio-Site-Nanodegree
-This webpage was created specifically for Udacity's Front End Developer Developer Nanodegree
-Summary:
 
+# Summary:
 This webpage was created specifically for Udacity's Front End Developer Developer Nanodegree.
 
-##The application offers the following features:
+# Technologies Used In Application:
+- HTML
+- CSS
+- Responsive Images
 
+# How to Test:
 
-Technologies Used In Application:
-HTML
-CSS
-
-##Testing The Web Page:
-
-Download the project to your computer.
-Right click and open with Google Chrome browser.
+- Download the project to your computer.
+- Right click and open with Google Chrome browser.
