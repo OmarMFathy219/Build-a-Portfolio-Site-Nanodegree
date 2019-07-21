@@ -53,3 +53,9 @@ footer{
         font-size: 22px;
     }
 }
+@media screen and (min-width: 720px) {
+
+img{
+    width: 90%;
+}
+}
